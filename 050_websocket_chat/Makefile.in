@@ -4,5 +4,5 @@ CFLAGS  = -g -Wall -DDEBUG
 INCDIR  =
 LDFLAGS =
 DEFS    =
-OBJECTS = main.o
+OBJECTS = main.o callbacks.o
 
